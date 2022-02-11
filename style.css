@@ -1,0 +1,71 @@
+*{
+    background-color:rgb(247, 239, 238);
+    /* background-color:mistyrose; */
+}
+body{
+    display: inline-block;
+    margin: 150px 0px 0px 450px;
+    
+}
+.title{
+    margin-bottom: 15px;
+    text-align:center;
+    width: 300px;
+    padding: 10px;
+    color:green;
+    font-style: italic;
+    font-size: 20px;
+    font-weight: 800;
+    border: solid rgb(112, 151, 61) 2px;
+    border-radius: 15px;
+    background-color: rgb(184, 238, 122);
+    }
+.cal{
+    
+    border: solid rgb(112, 151, 61) 2px;
+    border-radius: 20px;
+    width: 320px;
+    padding: 10px;
+    background-color: rgb(184, 238, 122);
+}
+.tab {
+    margin: 0px;
+    width: 320px;
+    height: 200px;
+    border: solid rgb(112, 151, 61) 2px;
+    border-radius: 15px;
+    background-color: rgb(184, 238, 122);
+    }
+#symbols{
+    padding: 5px 15px 5px 15px;
+}
+td{
+    background-color: rgb(184, 238, 122);
+    border-radius: 15px;
+}
+ input[type="button"]
+    {
+    background-color: rgb(184, 238, 122);
+    color:green;
+    border: solid rgb(141, 228, 91) 2px;
+    border-radius: 8px;
+    width:100%;
+    padding: 5px;
+    font-weight: 600;
+    font-size: 18px;
+    margin: 0px;
+    }
+
+input[type="text"]
+    {
+    border: solid rgb(112, 151, 61) 2px;
+    padding: 5px;
+    color:green;
+    font-style: italic;
+    font-weight: 600;
+    font-size: 18px;
+    background-color:white;
+    border-radius: 10px;
+    width:100%;
+    margin: 0px;
+    }
